@@ -1,0 +1,11 @@
+[project]
+name = "roborok"
+version = "0.1.0"
+description = "A script to monitor Roborock status and send WhatsApp notifications via WAHA API."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "python-roborock>=2.47.1",
+    "requests>=2.32.5",
+]
