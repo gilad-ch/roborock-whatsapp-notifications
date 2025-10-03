@@ -20,10 +20,9 @@ It supports configurable recipients, notification cooldowns, and quiet hours.
    - Notification timing (cooldown, quiet hours)  
 
 4. **Install dependencies**  
-   Using [uv](https://github.com/astral-sh/uv):  
    ```bash
    uv sync
-````
+   ```
 
 5. **Run the script**
 
