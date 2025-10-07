@@ -1,6 +1,6 @@
 services:
   roborock:
-    image: roborock:1.0
+    image: roborock-monitor:1.0
     container_name: roborock-monitor
     restart: always
     volumes:
