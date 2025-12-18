@@ -1,7 +1,8 @@
 # Roborock WhatsApp Notifications
 
-This script monitors the status of a **Roborock robotic cleaner** and sends notifications via **WAHA API** to WhatsApp recipients when issues are detected.  
-It supports configurable recipients, notification cooldowns, and quiet hours.
+This script monitors the status of a **Roborock robotic cleaner** and sends notifications to WhatsApp recipients when issues are detected.
+This project uses **WAHA** for sending Whatsapp notifications - No need for an offical Whatsapp API access. 
+WHAHA enables you to turn any Whatapp acount into a Self-Hosted Whatsapp REST API server (Obviously unofficial - use at your own risk).
 
 ---
 
